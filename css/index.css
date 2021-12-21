@@ -1,0 +1,36 @@
+/*Hello BootStrapCamp!*/
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+    font-size: 20pt;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17pt;
+}
+p{
+    font-family: Tahoma, sans-serif;
+    font-size: 14pt;
+}
+
+#bodyStyle{
+    background-color: wheat;
+}
+
+.card{
+    text-align: center;
+    background-color: rgb(105, 138, 105);
+}
+#headerDiv{
+
+}
+
+.pix{
+    margin: 2%;
+    box-shadow: yellow;
+}
+
+#footer{
+
+}
